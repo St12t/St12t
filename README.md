@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Steven Oluwabusi </h1>
 
 <p align="center"> 📚 Rising Junior studying Computer Science and Mathematics at Tandon School of Engineering @ NYU </p>
-<p align="center"> 👩🏽‍💻 IT Technician for the Enrollement Manangment team @ NYU </p>
+<p align="center"> 👨🏾‍💻 IT Technician for the Enrollement Manangment team @ NYU </p>
 <p align="center"> 🏆 I've attended one hackathon @ Point 72 Cubist  Systematic Strategies and plan on doing more </p>
 <p align="center"> 💡 Interetsed in working on side projects in web dev,machine learning, backend dev, and anything that comes to mind. </p>
 
