@@ -49,6 +49,8 @@ Libraries/Frameworks:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+
 
 
 
