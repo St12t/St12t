@@ -4,12 +4,12 @@
 <!-- <p align="center"> 👨🏾‍💻 Software Engineer @ Bloomberg  </p> -->
 <p align="center"> 👨🏾‍💻 swe @ kitme, prev ml/swe chime,nyu,seo </p>
 <p align="center"> 🏆 I've attended hackathons @ Point 72 Cubist Systematic Strategies, Shopify and UMD and plan on doing more </p>
-<p align="center"> 💡 Interetsed in working on side projects in web dev,machine learning, backend dev, and anything that comes to mind. </p>
+<p align="center"> 💡 Interested in working on side projects in fintech, machine learning, infrastructure, and anything that comes to mind. </p>
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Regression Modeling with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building applications using JavaScript and Spring Boot applications with PostgreSQL
+- 💻 Working on the "Spotify for fashion" - an AI-powered resale platform revolutionizing how users discover and trade clothing
 
 
 ## 🌐 Connect with me:
