@@ -9,7 +9,7 @@
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Regression Modeling with [scikit-learn](https://scikit-learn.org/)
-- 💻 Working with a team to bring "Spotify for fashion" - an AI-powered resale platform revolutionizing how users discover and trade clothing
+- 💻 Working with a team to bring "Spotify for fashion" - an AI-powered digital wardrobe platform
 
 
 ## 🌐 Connect with me:
