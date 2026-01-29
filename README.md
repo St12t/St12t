@@ -8,7 +8,7 @@
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Regression Modeling with [scikit-learn](https://scikit-learn.org/)
+- 🤖 Bringing financial freedom to payroll systems
 - 💻 Working with a team to bring "Spotify for fashion" - an AI-powered digital wardrobe platform
 
 
