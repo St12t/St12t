@@ -3,7 +3,7 @@
 <p align="center"> 📚 Studying Computer Science and Mathematics at Tandon School of Engineering @ NYU </p>
 <!-- <p align="center"> 👨🏾‍💻 Software Engineer @ Bloomberg  </p> -->
 <p align="center"> 👨🏾‍💻 swe @ kitme, prev ml/swe @ chime,nyu,seo </p>
-<p align="center"> 🏆 I've attended hackathons @ Point 72 Cubist Systematic Strategies, Shopify and UMD and plan on doing more </p>
+<p align="center"> 🏆 I've attended multiple hackathons @ Chime,Point 72 Cubist Systematic Strategies, Shopify and UMD and plan on doing more </p>
 <p align="center"> 💡 Interested in working on side projects in fintech, machine learning, infrastructure, and anything that comes to mind. </p>
 
 ## 🚀 What I'm Up To
